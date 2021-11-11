@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733366208907",
+    "project_id": "booklog-6fa0a",
+    "storage_bucket": "booklog-6fa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733366208907:android:c3320700a805faee70c78e",
+        "android_client_info": {
+          "package_name": "com.example.booklogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733366208907-t4uu0edoglt5lkouijjcihj1f5r6s0u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booklogapp",
+            "certificate_hash": "f6795e0380ed97aa67ddf037776fad4295a5b57a"
+          }
+        },
+        {
+          "client_id": "733366208907-295jeoppd7d13t5nerd8gt98opfv9j8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RzoCq7hJa7Rf1MfWC0L67kEHl9rAbhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733366208907-295jeoppd7d13t5nerd8gt98opfv9j8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
